@@ -1,0 +1,1 @@
+web: java -jar target/Despliegue_Lab10-0.0.1-SNAPSHOT.jar
