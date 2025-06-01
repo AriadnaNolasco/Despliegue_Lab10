@@ -5,5 +5,5 @@ services:
     buildCommand: ./mvnw clean install
     startCommand: java -jar target/demo-0.0.1-SNAPSHOT.jar
     envVars:
-      - key: MONGODB_URI
-        value: mongodb+srv://ariadnanolasco:CFtOC5N7Pu8k1b1r@cluster0.jrsgowe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      - key: JAVA_VERSION
+        value: 17
